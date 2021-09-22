@@ -8,4 +8,5 @@ done my changes
 
 final copy
 
+input file modified in patch-1
 
